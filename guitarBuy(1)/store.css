@@ -1,0 +1,54 @@
+.container{
+    margin-top: 40px;
+    padding: 90px;
+}
+.item1 {
+    padding: 10px;
+    border: 20px;
+    border-color: black;
+    margin-top: -80px;
+   
+    background: #fff;
+    box-shadow: 0 0 20px -6px;
+}
+.item3 {
+    padding: 10px;
+    border: 20px;
+    border-color: black;
+    margin-top: -80px;
+    background: #fff;
+    box-shadow: 0 0 20px -6px;
+}
+.btn{
+    padding: 2px;
+    margin: 2px;
+    color: #fff;
+    cursor: auto;
+    box-shadow: 4px;
+    transition: 04s;
+   
+}
+.btn:hover{
+    
+    color: gray;
+    transition: 0.4s;
+}
+.itm1{
+   
+    margin-left: 110px;
+}
+.guitar{
+    margin-left: 120px;
+}
+.itm2{
+    margin-top: -50px;
+    margin-left: 120px;
+}
+.btnn{
+    margin-left: 50%;
+}
+.ukulele{
+    
+    margin: 60px;
+    margin-top: 5px;
+}

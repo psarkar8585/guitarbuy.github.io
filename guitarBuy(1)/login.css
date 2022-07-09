@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1 {
+    color: white;
+}
+.card{
+    border: 2px solid #fff;
+    padding:60px 40px;
+    background: transparent;
+    box-shadow: 0 0 20px -6px;
+    
+}
+
+h6{
+    
+    background-position: center;
+    background-color: white;
+}

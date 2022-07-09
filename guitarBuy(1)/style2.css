@@ -1,0 +1,66 @@
+*{
+    margin:0;
+    padding: 0;
+}
+h1 {
+   
+    color:white;
+    margin-left: auto;
+    cursor: pointer;
+}
+h1:hover{
+    transition: 0.5s;
+}
+.parallax-header{
+    background: #000;
+    background: linear-gradient(
+        rgba(0,0,0,0.3),
+        rgba(0,0,0,0.8)
+    ),
+    url(assets/abc2.jpg) ;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header1{
+    padding: 100px 0 150px 0;
+}
+
+.text-container{
+    padding-left: 30px;
+    
+}
+.content{
+    margin-top: -80px;
+    background: #fff;
+    box-shadow: 0 0 20px -6px;
+}
+.content .left{
+    padding-top: 20px;
+}
+
+.content1{
+    margin-top: -80px;
+    padding-left: 70px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    box-shadow: 2px 0 2 -6px;
+}
+
+
+.box1{
+    padding-top: 200px;
+    padding-left: 50px;
+}
+.btn{
+    padding: 5px;
+    color: #fff;
+    cursor: auto;
+    box-shadow: 4px;
+   
+}
+.btn:hover{
+    color: gray;
+    transition: 0.4s;
+}
